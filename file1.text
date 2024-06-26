@@ -1,4 +1,8 @@
 1st line from cloud
 2ND line from local
+<<<<<<< HEAD
 new line in cloud
 
+=======
+local change in myNewBranch
+>>>>>>> myNewBranch
